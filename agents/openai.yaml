@@ -1,0 +1,15 @@
+interface:
+  display_name: noon bulk products
+  short_description: Create, validate, and repair Noon Egypt bulk product, NIS catalog,
+    offer, price, stock, and image spreadsheets. Use when converting WooCommerce or
+    Jumia product data to Noon templates, mapping Noon categories, correcting rejected
+    rows, or preparing only failed products for re-upload without duplicates.
+  icon_small: assets/icon.svg
+  icon_large: assets/icon.svg
+policy:
+  products:
+  - chatgpt
+  - codex
+  - api
+  - atlas
+  allow_implicit_invocation: true
